@@ -1,4 +1,4 @@
-Language Detection using NLP
+Language Detection using NLP br
 📌 Overview
 This project detects the language of input text using Natural Language Processing and Machine Learning.
 
